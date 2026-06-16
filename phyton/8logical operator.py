@@ -5,22 +5,22 @@
 
 # temp = 25
 # is_raining = False
-# if temp > 35  or temp < 0 or is_raining:
+# if temp > 20  or temp < 0 or is_raining:
 #     print("the outdore event is cancalled")
 # else:
 #     print("The outdoor event is still calcled ")
 
 # temp = 25
-# is_raining = True
-# if temp >10  and temp < 10 and is_raining:
+# is_raining =False
+# if temp  > 10   and is_raining:
 #     print("the outdore event is cancalled")
 # else:
 #     print("The outdoor event is still calcled ")
 
 
-temp = 25
-is_raining = True
-if temp >10  and not temp < 10 and not is_raining:
-    print("the outdore event is cancalled")
-else:
-    print("The outdoor event is still calcled ")
+# temp = 25
+# is_raining = False
+# if temp >10   and not is_raining:
+#     print("the outdore event is cancalled")
+# else:
+#     print("The outdoor event is still calcled ")
