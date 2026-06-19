@@ -24,11 +24,27 @@
 #     num = int(input ("Enter nuber 1 to 10 :" ))
 # print(f"your number is {num}")
 
-num1= int ( input ( "Enter the number A to Z :"))
-while num1 < 90 or num1 >845:
-    print(f"{num1} is not valid")
-    num1= int ( input ( "Enter the number A to Z :"))
-print(f"your alpha ia {num1}")
+# num1= int ( input ( "Enter the number A to Z :"))
+# while num1 < 90 or num1 >845:
+#     print(f"{num1} is not valid")
+#     num1= int ( input ( "Enter the number A to Z :"))
+# print(f"your alpha ia {num1}")
 
+# num2 = int(input("Enter the number :")) 
+# while num2 <1 or num2 >10:
+#     print(f"{num2} is not valid")
+#     num2 = int(input("Enter the number :"))  
+# print(f"your alpha number is {num2}")
+
+num2 = int(input("Enter a number between 1 and 10: "))
+
+while num2 < 1 or num2 > 9999999:
+    print("Invalid number")
+    num2 = int(input("Enter again: "))
+
+i = 1
+while i <= 10:
+    print(f"{num2} x {i} = {num2 * i}")
+    i += 1
 
 
