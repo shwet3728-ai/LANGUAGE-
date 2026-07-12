@@ -1,0 +1,10 @@
+# *
+# **
+# ***
+# ****
+# *****
+num=6
+for i in range(1,num+1):
+    for j in range (i,num):
+        print(j,end=" ")
+    print()
