@@ -249,3 +249,15 @@
 #         print(i)
 
 
+# 0
+# 1 0
+# 010
+# 1010
+# 01010
+
+
+num= int(input("Enter the number of rows :"))
+for i in range (1,num+1):
+    for j in range(1,i+1):
+        print("*",end="")
+    print()
