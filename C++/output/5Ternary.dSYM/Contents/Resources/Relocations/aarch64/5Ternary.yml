@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/shwet/C-LANG/DSA/output/6patterns'
+binary-path:     '/Users/shwet/C-LANG/C++/output/5Ternary'
 relocations:     []
 ...
