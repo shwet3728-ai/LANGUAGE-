@@ -1,0 +1,23 @@
+// ============================================================
+// Partition_Array
+// ============================================================
+//
+// Partition an array using two pointers.
+//
+// Difficulty : Practice
+// Approach    : ______________________________
+// Time        : O(__________)
+// Space       : O(__________)
+// ============================================================
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+
+    // Write your solution here
+
+
+    return 0;
+}

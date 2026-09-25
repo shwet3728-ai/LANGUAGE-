@@ -1,0 +1,24 @@
+// ============================================================
+// Dijkstra_PriorityQueue
+// ============================================================
+//
+// Implement Dijkstra using priority_queue.
+//
+// Difficulty : Practice
+// Approach    : ______________________________
+// Time        : O(__________)
+// Space       : O(__________)
+// ============================================================
+
+#include <iostream>
+#include <vector>
+#include <queue>
+using namespace std;
+
+int main() {
+
+    // Write your solution here
+
+
+    return 0;
+}
