@@ -6,16 +6,27 @@
 //
 // Difficulty : Practice
 // Approach    : ______________________________
-// Time        : O(__________)
-// Space       : O(__________)
+// Time        : O(1)
+// Space       : O(1)
 // ============================================================
 
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
+    char ch =' ';
+    cout<<"Enter the alphabet: "<<endl;
+    cin>>ch;
+    
+    int chh=ch;
+    cout<<chh<<endl;
 
-    // Write your solution here
+    int num ;
+    cout<<"Enter the number: "<<endl;
+    cin>>num;
+    char cho=num;
+    cout<<cho;
 
 
     return 0;

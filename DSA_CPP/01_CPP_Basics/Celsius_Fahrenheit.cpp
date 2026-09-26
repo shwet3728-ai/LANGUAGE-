@@ -15,9 +15,12 @@
 using namespace std;
 
 int main() {
-
-    // Write your solution here
-
+    float Celsius;
+    cout<<"Enter the temperature in Celsius"<<endl;
+    cin>>Celsius;
+    float temp=Celsius*9/5;
+    float Fahrenheit = temp + 32;
+    cout<<Fahrenheit<<"°F";
 
     return 0;
 }

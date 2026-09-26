@@ -14,10 +14,23 @@
 #include <string>
 using namespace std;
 
-int main() {
-
-    // Write your solution here
-
+int main()
+{
+    char ch;
+    cout << "Enter the character" << endl;
+    cin >> ch;
+    if ('A' <= ch && ch <= 'Z')
+    {
+        cout << "UPPERCASE" << endl;
+    }
+    else if ('a' <= ch && ch <= 'z')
+    {
+        cout << "LOWERCASE" << endl;
+    }
+    else
+    {
+        cout << "Enter an Invalid input";
+    }
 
     return 0;
 }

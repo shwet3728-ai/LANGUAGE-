@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shwet/C-LANG/DSA_CPP/01_CPP_Basics/output/Armstrong_Number'
+relocations:     []
+...
